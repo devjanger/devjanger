@@ -1,2 +1,2 @@
-## DEVJanger(0xJanger)
+## DevJanger(0xJanger)
 ---
