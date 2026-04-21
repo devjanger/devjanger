@@ -2,7 +2,6 @@
 ---
 ### What I Do
 - Bug Bounty Hunting
-- Web Application Security Testing
 - Vulnerability Research & Disclosure
 - Security Tool Development
 
