@@ -1,4 +1,4 @@
-## DevJanger(0xJanger)
+## 0xJanger(DevJanger)
 ---
 ### What I Do
 - Bug Bounty Hunting
