@@ -15,4 +15,4 @@
 
 
 ### Contact
-- Email: 0xjanger@gmail.com
+- Email: 0xjanger@proton.me
