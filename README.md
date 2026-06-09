@@ -12,3 +12,7 @@
 
 ### Reports
 - [OBB-3823646](https://www.openbugbounty.org/reports/3823646/)
+
+
+### Contact
+- Email: 0xjanger@gmail.com
