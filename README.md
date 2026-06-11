@@ -11,7 +11,7 @@
 
 
 ### Reports
-- [OBB-3823646](https://www.openbugbounty.org/reports/3823646/)
+- ᗜˬᗜ [OBB-3823646](https://www.openbugbounty.org/reports/3823646/)
 
 
 ### Contact
